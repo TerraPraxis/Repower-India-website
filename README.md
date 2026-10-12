@@ -1,7 +1,7 @@
 # REPOWER India website
 
-The REPOWER India results website, version 10 (12 October 2026), by Terra Praxis.
+The REPOWER India results website, version 10.1 (12 October 2026), by Terra Praxis.
 
-`index.html` is one self-contained page. It contains all its charts, maps and 3D views. It makes no external requests and works offline. Source citations link to their publishers.
+`index.html` is one self-contained page. It contains all its charts, maps and 3D views. It makes no external requests and works offline.
 
 The site is served with GitHub Pages from the `main` branch, root folder.
