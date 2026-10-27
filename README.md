@@ -1,6 +1,6 @@
 # EMPOWER India website
 
-The EMPOWER India results website (formerly REPOWER India), version 16.3 (26 October 2026), by Terra Praxis. It follows the body order of report v4.4.
+The EMPOWER India results website (formerly REPOWER India), version 17 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
 
 `index.html` is one self-contained page. It contains all its charts, maps and report renders. It makes no external requests and works offline.
 
@@ -13,3 +13,5 @@ Draft version 12.5 (18 October 2026, branch `draft/empower-rename-2026-10-18`, n
 Version 16.2 (26 October 2026): a new page on report v4.4, built from the project source (`12-redraft/4_website/site/src_v16_2/`, builder `build_site_v16_2.py`), not patched from v12.5. Seven chapters: the need, the industry, the Empower strategy (pace, eight requirements, five delivery stages, schedule, cost, siting constraints), the programme (existing coal sites, large new sites, marine sites, with a site tracker), the benefits (jobs), sites first, and the conclusion. The 3D construction model and the supply-chain chapter are removed. The interactive Figure 10 map includes TeleGeography submarine-cable data (published at the owner's decision, 26 October 2026). Notes: `site/README_site_v16_2.md` in the project.
 
 Version 16.3 (26 October 2026): cover subtitle "Delivering affordable, reliable, clean power at scale"; the Oxford comma in every list of the page copy, chart labels, and dialog titles. Notes: `site/README_site_v16_3.md` in the project.
+
+Version 17 (27 October 2026): review comments from Isuru Seneviratne. "Built in series" is shown as indexed columns, with the starting value at 1×. The build-time chart names the country of each unit. The site-type colours follow report Figure ES1. In the table of how the three site types meet the siting constraints, a cell, row or column under the pointer stays in full and the others dim. The reconductoring text gives the thermal rating and says that the Gooty-Tumkur line gains redundancy, not transfer capacity. The jobs chart stacks the five activities in the colours of report Figure 19. The harbour text no longer states 0.59 GW per million people. Notes: `site/README_site_v17.md` in the project.
