@@ -1,6 +1,6 @@
 # EMPOWER India website
 
-The EMPOWER India results website (formerly REPOWER India), version 17.2 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
+The EMPOWER India results website (formerly REPOWER India), version 17.3 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
 
 `index.html` is one self-contained page. It contains all its charts, maps and report renders. It makes no external requests and works offline.
 
@@ -19,3 +19,5 @@ Version 17 (27 October 2026): review comments from Isuru Seneviratne. "Built in 
 Version 17.1 (27 October 2026): the table of how the three site types meet the siting constraints shows its titles only, the three site types on top and the five constraints. A click on a constraint rolls its row down to the three answers, and a second click rolls it up. The v17 hover dimming, the site-type descriptions above the table and the hint are removed. Notes: `site/README_site_v17_1.md` in the project.
 
 Version 17.2 (27 October 2026): the same table rolls down by column, not by row. A click on a site type (existing sites, large new sites, or marine sites) rolls its column down to its answers for the five constraints, and a second click rolls it up. Columns open independently. Notes: `site/README_site_v17_2.md` in the project.
+
+Version 17.3 (27 October 2026): Figure 1 shows two cases, both with the firm fleet at 85% of its capacity in every hour. "Least cost" optimises firm, solar, wind, and battery capacity with no limit on the share of wind and solar: about 1,600 GW of firm capacity. "45% renewables" fixes the firm fleet at 1 TW: wind, solar, and hydro supply 45% of demand. The 70 to 100 per cent operating range and the three v17.2 cases are removed. Notes: `site/README_site_v17_3.md` in the project.
