@@ -1,6 +1,6 @@
 # EMPOWER India website
 
-The EMPOWER India results website (formerly REPOWER India), version 17 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
+The EMPOWER India results website (formerly REPOWER India), version 17.1 (27 October 2026), by Terra Praxis. It follows the body order of report v4.4.
 
 `index.html` is one self-contained page. It contains all its charts, maps and report renders. It makes no external requests and works offline.
 
@@ -15,3 +15,5 @@ Version 16.2 (26 October 2026): a new page on report v4.4, built from the projec
 Version 16.3 (26 October 2026): cover subtitle "Delivering affordable, reliable, clean power at scale"; the Oxford comma in every list of the page copy, chart labels, and dialog titles. Notes: `site/README_site_v16_3.md` in the project.
 
 Version 17 (27 October 2026): review comments from Isuru Seneviratne. "Built in series" is shown as indexed columns, with the starting value at 1×. The build-time chart names the country of each unit. The site-type colours follow report Figure ES1. In the table of how the three site types meet the siting constraints, a cell, row or column under the pointer stays in full and the others dim. The reconductoring text gives the thermal rating and says that the Gooty-Tumkur line gains redundancy, not transfer capacity. The jobs chart stacks the five activities in the colours of report Figure 19. The harbour text no longer states 0.59 GW per million people. Notes: `site/README_site_v17.md` in the project.
+
+Version 17.1 (27 October 2026): the table of how the three site types meet the siting constraints shows its titles only, the three site types on top and the five constraints. A click on a constraint rolls its row down to the three answers, and a second click rolls it up. The v17 hover dimming, the site-type descriptions above the table and the hint are removed. Notes: `site/README_site_v17_1.md` in the project.
